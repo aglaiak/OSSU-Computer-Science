@@ -13,4 +13,4 @@ __________________________________________________
 | Courses  | University | Duration | Status | Repo | Proof |
 | -------- | :-: | :-: |:-: |:-: |:-: |
 | Calculus 1A|MIT| 13 weeks | ongoing|
-| 
+
